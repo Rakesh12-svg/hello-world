@@ -1,2 +1,5 @@
 # hello-world
-Just my first repository
+
+Hello guys,
+Rakesh here, I like coding and developing cool stuffs with coding.
+...
